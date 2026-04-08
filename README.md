@@ -1,1 +1,1 @@
-IBT_DRRU
+These are the analysis summaries for the paper 'Interpretation Bias Training Does Not Reduce Adolescent Conduct Problems'
